@@ -1,0 +1,253 @@
+{
+    "profile": "data-package", 
+    "name": "ab09ed00-4f51-4f6c-a2f7-1b2fb118be0f", 
+    "contributors": [
+        {
+            "role": "author", 
+            "email": "rodger@mvs.gov.ua", 
+            "title": "rodger_236"
+        }, 
+        {
+            "role": "maintainer", 
+            "email": "y.holubnycha@mvs.gov.ua", 
+            "title": "Голубнича Юлія Костянтинівна"
+        }
+    ], 
+    "created": "2018-08-22T07:10:06.742483", 
+    "title": "Інформація про викрадені/втрачені/недійсні паспорти громадянина України", 
+    "keywords": [
+        "недійсні паспорти", 
+        "паспорт в розшуку", 
+        "паспорт громадянина україни", 
+        "розшук"
+    ], 
+    "version": "1.0", 
+    "licenses": [
+        {
+            "path": "http://www.opendefinition.org/licenses/cc-by", 
+            "name": "cc-by", 
+            "title": "Creative Commons Attribution"
+        }
+    ], 
+    "homepage": "https://data.gov.ua/dataset/ab09ed00-4f51-4f6c-a2f7-1b2fb118be0f", 
+    "id": "41d166e9-d1b8-4a54-8e0a-363b02e2f11d", 
+    "resources": [
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v05.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/22fb7ccb-8a1a-4edb-a89c-39261ab30a04/download/mvswantedpassport_v05.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v07.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/4aa8442e-6ca7-4958-bf95-ab14966d914c/download/mvswantedpassport_v07.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v09.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/f7c5106b-50ac-4da6-a644-1ce14bc1badf/download/mvswantedpassport_v09.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v12.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/96f7e457-5393-4a6f-8c3c-9c7b91605a63/download/mvswantedpassport_v12.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v14.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/64e775e5-3927-4bbf-9321-636b7ee9a8c8/download/mvswantedpassport_v14.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v18.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/92251923-6d40-4076-812a-f528c5c27c05/download/mvswantedpassport_v18.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v00.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/bc2f9bbb-1d37-428d-8c9d-d28cb36697e9/download/mvswantedpassport_v00.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v21.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/c802b6c9-2039-4879-9864-9bc023521020/download/mvswantedpassport_v21.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v23.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/294e1464-91bc-46dd-a6f4-3321b5bf68fa/download/mvswantedpassport_v23.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v26.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/b6a53d5b-33e1-42f6-bcb9-6424f965fa5b/download/mvswantedpassport_v26.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v30.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/7492ab70-fdcf-4f31-9842-405519cbb02f/download/mvswantedpassport_v30.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v32.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/e255f627-a820-420f-afc7-540123782fc1/download/mvswantedpassport_v32.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v46.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/e1fa3952-a4af-41ac-a92c-b81d1c387eb8/download/mvswantedpassport_v46.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v48.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/30e08913-2f7c-4354-b483-075e2b82aba1/download/mvswantedpassport_v48.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v51.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/bf46628d-c730-4d5a-821c-737458b0dda8/download/mvswantedpassport_v51.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v53.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/935a9bd0-d521-4670-97df-92936480f3cd/download/mvswantedpassport_v53.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v56.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/01868379-7b7d-4949-8ba1-8e57f91b8dc0/download/mvswantedpassport_v56.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v35.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/a8d4b9c0-560a-4f59-b3b0-da5fc74ea645/download/mvswantedpassport_v35.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v59.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/ac339b10-313b-4446-9f2e-5ee7b0a2af2e/download/mvswantedpassport_v59.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v61.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/985a817c-5e61-40d2-889f-d368e67165fe/download/mvswantedpassport_v61.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v63.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/9b12926c-cebc-4eb6-b097-999f49a3e0d0/download/mvswantedpassport_v63.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v65.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/fd5bcaee-0de9-4a45-8ca4-1b66ef8f6717/download/mvswantedpassport_v65.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v68.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/847b6443-b5d1-48be-9b6d-06a7961cd0a0/download/mvswantedpassport_v68.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v71.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/144b7227-a292-4426-a4e4-8e5879f4a08e/download/mvswantedpassport_v71.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v74.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/7e1656cc-cf13-4f58-906c-84abb26e3884/download/mvswantedpassport_v74.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedpassport_v77.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/784ca97d-5d9c-4e74-aa93-efbbd4d9dddf/download/mvswantedpassport_v77.json"
+        }, 
+        {
+            "mimetype": "application/json", 
+            "profile": "data-resource", 
+            "name": "MVSWantedPassport_Shema.json", 
+            "format": "JSON", 
+            "encoding": "utf-8", 
+            "path": "https://data.gov.ua/dataset/41d166e9-d1b8-4a54-8e0a-363b02e2f11d/resource/25ce9105-f906-4972-ba29-2d8037d1854d/download/mvswantedpassport_shema.json"
+        }
+    ], 
+    "description": "Інформація про паспорти громадянина України по яких зареєстровано заяви щодо викрадання чи втрати. А також інформація про паспорти громадянина України, визнані недійсними."
+}
